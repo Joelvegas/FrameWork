@@ -215,4 +215,10 @@ public class Page_Appian extends SeleniumWrapper {
         return lFilas;
     }*/
 
+
+
+    public static void metodoPrueba() throws InterruptedException {
+        esperaEnSegundos();
+    }
+
 }
